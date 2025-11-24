@@ -1,6 +1,6 @@
 app:
-  title: C++ Lab (Template Project)
-  description: 這是用來測試C++ Lab的模板專案
+  title: C++ In-class Lab 3 - Functions & Recursion
+  description: 這次的 C++ 的函數 (Functions) 與遞迴 (Recursion)：函數宣告與定義、參數傳遞、遞迴呼叫。
 compiler_path: "g++"
 problems:
   p1:
