@@ -14,8 +14,7 @@ void hanoi(int n, int from, int to, int aux){
 }
 int main (){
     int n;
-    while (cin >> n){
-        hanoi (n, '1','3','2');
-    }
+    cin >> n;
+    cout << hanoi (n, '1','3','2')<<endl;
     return 0;
 }
