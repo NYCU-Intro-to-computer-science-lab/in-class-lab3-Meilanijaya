@@ -4,7 +4,6 @@
 using namespace std;
 
 int main() {
-
     int gcd(int a, int b){
     int r;
     r= a%b;
@@ -28,5 +27,3 @@ int main (){
     }
     return 0;
 }
-    
-   
